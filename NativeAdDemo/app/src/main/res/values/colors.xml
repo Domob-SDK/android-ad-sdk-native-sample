@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_background">#f2f2f2</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="title_background1">#ff498c</color>
+    <color name="title_background1_press">#eb397b</color>
+    <color name="title_background2">#00baff</color>
+    <color name="title_background2_press">#00acec</color>
+    <color name="title_background3">#0ec7d9</color>
+    <color name="title_background3_press">#0bbccd</color>
+
+    <color name="title_font">#fafafa</color>
+
+    <color name="item_background">#fafafa</color>
+    <color name="item1_brief">#888888</color>
+    <color name="item2_title">#373737</color>
+    <color name="item2_brief">#787878</color>
+    <color name="item2_font1">#00baff</color>
+    <color name="item4_font1">#404040</color>
+    <color name="back_background">#ff4900</color>
+</resources>

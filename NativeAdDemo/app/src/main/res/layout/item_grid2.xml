@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="143dp"
+    android:gravity="center_horizontal"
+    android:background="@color/main_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/white"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/iv_icon"
+            android:layout_width="58.3dp"
+            android:layout_height="58.3dp"
+            android:layout_marginTop="11dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/domob_icon" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="7dp"
+            android:layout_marginTop="7dp"
+            android:textColor="@color/item4_font1"
+            android:textSize="@dimen/item4_font1_size" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_action"
+        android:layout_width="80dp"
+        android:layout_height="28dp"
+        android:layout_marginBottom="5.6dp"
+        android:layout_marginTop="5.6dp"
+        android:background="@drawable/bt_bule_bg"
+        android:gravity="center"
+        android:textColor="@color/white" />
+
+</LinearLayout>

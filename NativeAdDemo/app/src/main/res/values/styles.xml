@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MainImage">
+        <item name="android:layout_width">@dimen/main_image</item>
+        <item name="android:layout_height">@dimen/main_image</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+</resources>

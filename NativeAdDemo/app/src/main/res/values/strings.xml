@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">多盟原生广告</string>
+    <string name="main_marker">多盟原生广告 DEMO</string>
+    <string name="spread">推广</string>
+    <string name="title_list1">图文列表</string>
+    <string name="title_list2">信息流</string>
+    <string name="title_grid1">图片列表</string>
+    <string name="title_grid2">图片列表</string>
+
+    <!-- xlistview -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+</resources>
